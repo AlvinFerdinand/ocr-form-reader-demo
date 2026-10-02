@@ -2,12 +2,13 @@
 
 > **Demo reconstruction of a real production system.** The original reads
 > handwritten field forms photographed on phones and feeds the numbers
-> into an ERP; it was built during my IT internship at **GSI Group**
-> (Semarang, Indonesia). That system's code, data, forms and database
-> schema are the company's and are **not** published here. This
-> repository is a clean-room rebuild of the *approach* on synthetic data,
-> written from scratch so the engineering decisions can be shown and
-> measured without exposing anything that belongs to the company.
+> into an ERP I built for **Zuliya Group** (Indonesia). That system's
+> code, data, form layouts and database schema are the company's and are
+> **not** published here. This repository is a clean-room rebuild of the
+> *approach* on synthetic data, written from scratch so the engineering
+> decisions can be shown and measured without exposing anything that
+> belongs to the company.
+
 
 Photo of a ruled form in → structured digits out, **or an explicit
 refusal**. Pure NumPy, no OCR engine, no system fonts, no network.
